@@ -1,0 +1,18 @@
+GRETAA = Generalized Reconstruction of EDL Trajectory, Atmosphere, and Aerodynamics
+
+This is a generalized framework to reconstruct entry, descent, and landing (EDL) parameters, such as trajectory, atmosphere, and aerodynamics. This tool has been demonstrated on the following EDL mission reconstructions:
+1. Mars Pathfinder (1997)
+2. Mars Exploration Rovers A and B (2004)
+3. Mars Phoenix Lander (2008)
+4. Mars Science Laboratory (2012)
+
+Additionally, this tool has also been used for ballistic range test data.
+
+The tool was developed 2008-present timeframe and will be updated to be useful
+for future EDL missions.
+
+Main developer:
+-----------------
+Soumyo Dutta
+waahvsov@yahoo.com
+
